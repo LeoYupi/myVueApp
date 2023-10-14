@@ -1,0 +1,19 @@
+{
+    "status": 0,
+    "msg": "success",
+    "data": {
+        "length": 1,
+        "header": [
+            "time",
+            "devid",
+            "duration"
+        ],
+        "rows": [
+            [
+                1679474519647000000,
+                "1622510532206530562",
+                60
+            ]
+        ]
+    }
+}

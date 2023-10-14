@@ -1,0 +1,2715 @@
+[
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532206530562",
+        "techniqueName": "左滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532219113473",
+        "techniqueName": "右滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532223307778",
+        "techniqueName": "左安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532223307779",
+        "techniqueName": "右安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532231696386",
+        "techniqueName": "人工上夹具左"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532235890690",
+        "techniqueName": "人工上夹具右"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532244279297",
+        "techniqueName": "左安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532252667906",
+        "techniqueName": "右安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532256862209",
+        "techniqueName": "左滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532042952705",
+        "sort": 0,
+        "techniqueId": "1622510532256862210",
+        "techniqueName": "右滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532261056514",
+        "techniqueName": "码垛机到取件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532269445121",
+        "techniqueName": "码垛机到取件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532273639426",
+        "techniqueName": "码垛机到取件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532277833730",
+        "techniqueName": "码垛机到取件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532286222337",
+        "techniqueName": "RFID气缸伸出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532047147010",
+        "sort": 0,
+        "techniqueId": "1622510532290416642",
+        "techniqueName": "RFID气缸缩回"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729921",
+        "sort": 0,
+        "techniqueId": "1622510532294610945",
+        "techniqueName": "码垛机到放件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729921",
+        "sort": 0,
+        "techniqueId": "1622510532298805249",
+        "techniqueName": "码垛机到放件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729921",
+        "sort": 0,
+        "techniqueId": "1622510532307193858",
+        "techniqueName": "码垛机到放件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729921",
+        "sort": 0,
+        "techniqueId": "1622510532315582466",
+        "techniqueName": "码垛机到放件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729922",
+        "sort": 0,
+        "techniqueId": "1622510532319776770",
+        "techniqueName": "码垛机到取件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729922",
+        "sort": 0,
+        "techniqueId": "1622510532328165377",
+        "techniqueName": "码垛机到取件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729922",
+        "sort": 0,
+        "techniqueId": "1622510532328165378",
+        "techniqueName": "码垛机到取件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532059729922",
+        "sort": 0,
+        "techniqueId": "1622510532336553985",
+        "techniqueName": "码垛机到取件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532063924225",
+        "sort": 0,
+        "techniqueId": "1622510532340748289",
+        "techniqueName": "RFID气缸伸出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532063924225",
+        "sort": 0,
+        "techniqueId": "1622510532349136897",
+        "techniqueName": "RFID气缸缩回"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532353331202",
+        "techniqueName": "码垛机到放件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532357525506",
+        "techniqueName": "码垛机到放件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532365914114",
+        "techniqueName": "码垛机到放件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532370108418",
+        "techniqueName": "码垛机到放件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532374302722",
+        "techniqueName": "左滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532378497025",
+        "techniqueName": "右滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532382691330",
+        "techniqueName": "左安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532391079937",
+        "techniqueName": "右安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532395274241",
+        "techniqueName": "人工下夹具左"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532399468545",
+        "techniqueName": "人工下夹具右"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532403662850",
+        "techniqueName": "左安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532407857153",
+        "techniqueName": "右安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532416245762",
+        "techniqueName": "左滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532068118529",
+        "sort": 0,
+        "techniqueId": "1622510532424634369",
+        "techniqueName": "右滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532424634370",
+        "techniqueName": "左滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532428828674",
+        "techniqueName": "右滑台滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532437217282",
+        "techniqueName": "码垛机到取件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532441411585",
+        "techniqueName": "码垛机到取件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532445605890",
+        "techniqueName": "码垛机到取件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532080701441",
+        "sort": 0,
+        "techniqueId": "1622510532453994498",
+        "techniqueName": "码垛机到取件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532458188801",
+        "techniqueName": "RFID伸出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532462383105",
+        "techniqueName": "RFID缩回"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532470771713",
+        "techniqueName": "码垛机到放件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532474966017",
+        "techniqueName": "码垛机到放件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532474966018",
+        "techniqueName": "码垛机到放件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895745",
+        "sort": 0,
+        "techniqueId": "1622510532487548929",
+        "techniqueName": "码垛机到放件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532491743233",
+        "techniqueName": "左滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532491743234",
+        "techniqueName": "右滑台滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532504326146",
+        "techniqueName": "左安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532504326147",
+        "techniqueName": "右安全门打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532508520449",
+        "techniqueName": "人工操作夹具左"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532516909057",
+        "techniqueName": "人工操作夹具右"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532521103362",
+        "techniqueName": "左滑台滑入2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532525297666",
+        "techniqueName": "右滑台滑入2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532529491969",
+        "techniqueName": "左安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532542074881",
+        "techniqueName": "右安全门关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532546269186",
+        "techniqueName": "码垛机到取件位正前方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532550463490",
+        "techniqueName": "码垛机到取件位2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532563046402",
+        "techniqueName": "码垛机到取件位上方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532567240706",
+        "techniqueName": "码垛机到取件位正前上方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532567240707",
+        "techniqueName": "码垛机到放件位正前上方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532579823618",
+        "techniqueName": "码垛机到放件位上方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532584017921",
+        "techniqueName": "码垛机到放件位2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532592406530",
+        "techniqueName": "码垛机到放件位正前方2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532596600833",
+        "techniqueName": "左滑台滑出2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532084895746",
+        "sort": 0,
+        "techniqueId": "1622510532604989442",
+        "techniqueName": "右滑台滑出2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532609183746",
+        "techniqueName": "滑台1滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532617572353",
+        "techniqueName": "滑台2滑入"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532621766658",
+        "techniqueName": "码垛机到取件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532621766659",
+        "techniqueName": "码垛机到取件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532625960961",
+        "techniqueName": "码垛机到取件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532089090049",
+        "sort": 0,
+        "techniqueId": "1622510532634349569",
+        "techniqueName": "码垛机到取件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532097478657",
+        "sort": 0,
+        "techniqueId": "1622510532638543873",
+        "techniqueName": "RFID气缸伸出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532097478657",
+        "sort": 0,
+        "techniqueId": "1622510532642738178",
+        "techniqueName": "RFID气缸缩回"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867265",
+        "sort": 0,
+        "techniqueId": "1622510532646932481",
+        "techniqueName": "码垛机到放件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867265",
+        "sort": 0,
+        "techniqueId": "1622510532655321090",
+        "techniqueName": "码垛机到放件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867265",
+        "sort": 0,
+        "techniqueId": "1622510532659515393",
+        "techniqueName": "码垛机到放件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867265",
+        "sort": 0,
+        "techniqueId": "1622510532667904001",
+        "techniqueName": "码垛机到放件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532667904002",
+        "techniqueName": "码垛机到取件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532676292609",
+        "techniqueName": "码垛机到取件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532684681217",
+        "techniqueName": "码垛机到取件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532684681218",
+        "techniqueName": "码垛机到取件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532693069826",
+        "techniqueName": "RFID气缸伸出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532701458433",
+        "techniqueName": "RFID气缸缩回"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532705652738",
+        "techniqueName": "码垛机到放件位正前上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532709847042",
+        "techniqueName": "码垛机到放件位上方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532718235650",
+        "techniqueName": "码垛机到放件位"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532722429953",
+        "techniqueName": "码垛机到放件位正前方"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532726624258",
+        "techniqueName": "滑台3滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532105867266",
+        "sort": 0,
+        "techniqueId": "1622510532730818561",
+        "techniqueName": "滑台4滑出"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532735012865",
+        "techniqueName": "机器人到取件位_滑台"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532743401473",
+        "techniqueName": "抓手气缸闭合_滑台"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532747595778",
+        "techniqueName": "机器人退出取件位_滑台"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532755984385",
+        "techniqueName": "机器人到达放件位_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532760178689",
+        "techniqueName": "抓手气缸打开_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532764372994",
+        "techniqueName": "机器人退出放件位_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532764372995",
+        "techniqueName": "机器人到取件位_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532768567298",
+        "techniqueName": "抓手气缸闭合_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532781150210",
+        "techniqueName": "机器人退出取件位_中转台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532781150211",
+        "techniqueName": "机器人到放件等待位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532789538817",
+        "techniqueName": "机床1门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532793733121",
+        "techniqueName": "机器人到达放件位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532802121730",
+        "techniqueName": "机床1夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532802121731",
+        "techniqueName": "抓手气缸打开_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532814704641",
+        "techniqueName": "机器人退出放件位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532818898946",
+        "techniqueName": "机床门1关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532823093250",
+        "techniqueName": "机器人回到Home点1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532827287553",
+        "techniqueName": "机床1加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532835676161",
+        "techniqueName": "机器人到取件等待位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532839870466",
+        "techniqueName": "机床门1打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532844064770",
+        "techniqueName": "机器人到取件位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532848259073",
+        "techniqueName": "抓手气缸闭合_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532856647681",
+        "techniqueName": "机床1夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532860841985",
+        "techniqueName": "机器人退出取件位_机床1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532860841986",
+        "techniqueName": "机床门1关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532865036290",
+        "techniqueName": "机器人到等待位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532877619202",
+        "techniqueName": "清洗台1打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532877619203",
+        "techniqueName": "机器人到达放件位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532886007810",
+        "techniqueName": "抓手气缸打开_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532886007811",
+        "techniqueName": "清洗台1夹具夹紧_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532894396418",
+        "techniqueName": "机器人退出放件位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532898590722",
+        "techniqueName": "清洗台1关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532902785026",
+        "techniqueName": "清洗台1清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532911173633",
+        "techniqueName": "机器人到达放件位_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532915367937",
+        "techniqueName": "抓手气缸打开_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532919562241",
+        "techniqueName": "机器人退出放件位_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532923756545",
+        "techniqueName": "机器人到取件位_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532932145153",
+        "techniqueName": "抓手气缸闭合_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532936339457",
+        "techniqueName": "机器人退出取件位_中转台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532940533761",
+        "techniqueName": "机器人到放件等待位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532944728065",
+        "techniqueName": "机床2门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532957310978",
+        "techniqueName": "机器人到达放件位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532961505281",
+        "techniqueName": "机床2夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532965699586",
+        "techniqueName": "抓手气缸打开_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532969893890",
+        "techniqueName": "机器人退出放件位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532974088194",
+        "techniqueName": "机床门2关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532978282497",
+        "techniqueName": "机器人回到Home点2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532982476801",
+        "techniqueName": "机床2加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532990865409",
+        "techniqueName": "机器人到取件等待位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532995059713",
+        "techniqueName": "机床门2打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510532999254017",
+        "techniqueName": "机器人到取件位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533007642626",
+        "techniqueName": "抓手气缸闭合_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533011836929",
+        "techniqueName": "机床2夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533016031234",
+        "techniqueName": "机器人退出取件位_机床2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533020225538",
+        "techniqueName": "机床门2关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533024419842",
+        "techniqueName": "机器人到等待位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533037002753",
+        "techniqueName": "清洗台2打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533041197058",
+        "techniqueName": "机器人到达放件位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533041197059",
+        "techniqueName": "抓手气缸打开_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533045391361",
+        "techniqueName": "清洗台2夹具夹紧_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533053779970",
+        "techniqueName": "机器人退出放件位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533057974274",
+        "techniqueName": "清洗台2关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533062168578",
+        "techniqueName": "清洗台2清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533074751490",
+        "techniqueName": "机器人到达放件位_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533074751491",
+        "techniqueName": "抓手气缸打开_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533078945794",
+        "techniqueName": "机器人退出放件位_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533083140097",
+        "techniqueName": "机器人到取件位_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533091528705",
+        "techniqueName": "抓手气缸闭合_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533095723010",
+        "techniqueName": "机器人退出取件位_中转台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533099917313",
+        "techniqueName": "机器人到放件等待位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533108305922",
+        "techniqueName": "机床3门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533112500226",
+        "techniqueName": "机器人到达放件位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533116694530",
+        "techniqueName": "机床3夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533120888834",
+        "techniqueName": "抓手气缸打开_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533125083137",
+        "techniqueName": "机器人退出放件位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533133471745",
+        "techniqueName": "机床门3关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533137666049",
+        "techniqueName": "机器人回到Home点3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533146054657",
+        "techniqueName": "机床3加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533150248961",
+        "techniqueName": "机器人到取件等待位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533158637569",
+        "techniqueName": "机床门3打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533162831873",
+        "techniqueName": "机器人到取件位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533171220482",
+        "techniqueName": "抓手气缸闭合_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533175414786",
+        "techniqueName": "机床3夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533183803394",
+        "techniqueName": "机器人退出取件位_机床3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533192192002",
+        "techniqueName": "机床门3关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533196386305",
+        "techniqueName": "机器人到等待位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533200580609",
+        "techniqueName": "清洗台3打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533200580610",
+        "techniqueName": "机器人到达放件位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533208969218",
+        "techniqueName": "抓手气缸打开_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533217357826",
+        "techniqueName": "清洗台3夹具夹紧_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533221552129",
+        "techniqueName": "机器人退出放件位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533225746433",
+        "techniqueName": "清洗台3关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533234135042",
+        "techniqueName": "清洗台3清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533234135043",
+        "techniqueName": "机器人到达放件位_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533242523650",
+        "techniqueName": "抓手气缸打开_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533246717953",
+        "techniqueName": "机器人退出放件位_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533250912258",
+        "techniqueName": "机器人到取件位_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533259300865",
+        "techniqueName": "抓手气缸闭合_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533259300866",
+        "techniqueName": "机器人退出取件位_中转台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533267689473",
+        "techniqueName": "机器人到放件等待位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533276078081",
+        "techniqueName": "机床4门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533276078082",
+        "techniqueName": "机器人到达放件位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533284466690",
+        "techniqueName": "机床4夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533288660993",
+        "techniqueName": "抓手气缸打开_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533292855297",
+        "techniqueName": "机器人退出放件位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533301243905",
+        "techniqueName": "机床门4关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533301243906",
+        "techniqueName": "机器人回到Home点4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533309632514",
+        "techniqueName": "机床4加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533313826818",
+        "techniqueName": "机器人到取件等待位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533318021122",
+        "techniqueName": "机床门4打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533326409730",
+        "techniqueName": "机器人到取件位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533334798338",
+        "techniqueName": "抓手气缸闭合_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533334798339",
+        "techniqueName": "机床4夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533338992642",
+        "techniqueName": "机器人退出取件位_机床4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533347381250",
+        "techniqueName": "机床门4关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533351575554",
+        "techniqueName": "机器人到等待位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533355769858",
+        "techniqueName": "清洗台4打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533359964161",
+        "techniqueName": "机器人到达放件位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533364158465",
+        "techniqueName": "抓手气缸打开_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533376741377",
+        "techniqueName": "清洗台4夹具夹紧_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533376741378",
+        "techniqueName": "机器人退出放件位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533380935682",
+        "techniqueName": "清洗台4关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533385129985",
+        "techniqueName": "清洗台4清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533397712898",
+        "techniqueName": "机器人到达放件位_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533401907201",
+        "techniqueName": "抓手气缸打开_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533406101505",
+        "techniqueName": "机器人退出放件位_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533410295809",
+        "techniqueName": "机器人到取件位_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533418684418",
+        "techniqueName": "抓手气缸闭合_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533422878721",
+        "techniqueName": "机器人退出取件位_中转台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533427073026",
+        "techniqueName": "机器人到放件等待位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533431267330",
+        "techniqueName": "机床5门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533435461633",
+        "techniqueName": "机器人到达放件位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533439655937",
+        "techniqueName": "机床5夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533448044545",
+        "techniqueName": "抓手气缸打开_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533456433154",
+        "techniqueName": "机器人退出放件位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533456433155",
+        "techniqueName": "机床门5关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533460627457",
+        "techniqueName": "机器人回到Home点5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533473210369",
+        "techniqueName": "机床5加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533473210370",
+        "techniqueName": "机器人到取件等待位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533477404673",
+        "techniqueName": "机床门5打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533485793281",
+        "techniqueName": "机器人到取件位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533489987585",
+        "techniqueName": "抓手气缸闭合_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533494181890",
+        "techniqueName": "机床5夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533498376193",
+        "techniqueName": "机器人退出取件位_机床5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533510959105",
+        "techniqueName": "机床门5关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533510959106",
+        "techniqueName": "机器人到等待位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533515153410",
+        "techniqueName": "清洗台5打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533519347713",
+        "techniqueName": "机器人到达放件位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533527736322",
+        "techniqueName": "抓手气缸打开_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533531930626",
+        "techniqueName": "清洗台5夹具夹紧_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533536124929",
+        "techniqueName": "机器人退出放件位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533540319234",
+        "techniqueName": "清洗台5关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533548707841",
+        "techniqueName": "清洗台5清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533552902146",
+        "techniqueName": "机器人到达放件位_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533557096450",
+        "techniqueName": "抓手气缸打开_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533565485057",
+        "techniqueName": "机器人退出放件位_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533569679361",
+        "techniqueName": "机器人到取件位_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533573873665",
+        "techniqueName": "抓手气缸闭合_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533578067969",
+        "techniqueName": "机器人退出取件位_中转台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533582262274",
+        "techniqueName": "机器人到放件等待位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533594845186",
+        "techniqueName": "机床6门打开1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533594845187",
+        "techniqueName": "机器人到达放件位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533599039489",
+        "techniqueName": "机床6夹具夹紧"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533603233793",
+        "techniqueName": "抓手气缸打开_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533611622402",
+        "techniqueName": "机器人退出放件位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533615816705",
+        "techniqueName": "机床门6关闭1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533620011009",
+        "techniqueName": "机器人回到Home点6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533628399618",
+        "techniqueName": "机床6加工"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533632593921",
+        "techniqueName": "机器人到取件等待位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533636788225",
+        "techniqueName": "机床门6打开2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533640982530",
+        "techniqueName": "机器人到取件位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533645176834",
+        "techniqueName": "抓手气缸闭合_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533653565442",
+        "techniqueName": "机床6夹具松开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533657759746",
+        "techniqueName": "机器人退出取件位_机床6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533661954050",
+        "techniqueName": "机床门6关闭2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533666148354",
+        "techniqueName": "机器人到等待位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533674536961",
+        "techniqueName": "清洗台6打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533678731265",
+        "techniqueName": "机器人到达放件位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533682925569",
+        "techniqueName": "抓手气缸打开_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533687119874",
+        "techniqueName": "清洗台6夹具夹紧_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533699702786",
+        "techniqueName": "机器人退出放件位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533699702787",
+        "techniqueName": "清洗台6关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255873",
+        "sort": 0,
+        "techniqueId": "1622510533703897090",
+        "techniqueName": "清洗台6清洗零件"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533708091394",
+        "techniqueName": "清洗台1打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533716480002",
+        "techniqueName": "机器人到取件等待位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533720674306",
+        "techniqueName": "机器人到取件位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533724868609",
+        "techniqueName": "抓手气缸闭合_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533729062913",
+        "techniqueName": "机器人退出取件位_清洗台1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533737451521",
+        "techniqueName": "清洗台1关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533741645826",
+        "techniqueName": "机器人到等待位_滑台_1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533745840130",
+        "techniqueName": "机器人到达放件位_滑台_1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533750034434",
+        "techniqueName": "抓手气缸打开_滑台_1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532114255874",
+        "sort": 0,
+        "techniqueId": "1622510533762617346",
+        "techniqueName": "机器人退出放件位_滑台_1"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533762617347",
+        "techniqueName": "清洗台2打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533766811650",
+        "techniqueName": "机器人到取件等待位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533771005953",
+        "techniqueName": "机器人到取件位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533779394561",
+        "techniqueName": "抓手气缸闭合_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533783588865",
+        "techniqueName": "机器人退出取件位_清洗台2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533787783169",
+        "techniqueName": "清洗台2关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533796171778",
+        "techniqueName": "机器人到等待位_滑台_2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533800366081",
+        "techniqueName": "机器人到达放件位_滑台_2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533808754690",
+        "techniqueName": "抓手气缸打开_滑台_2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532126838786",
+        "sort": 0,
+        "techniqueId": "1622510533808754691",
+        "techniqueName": "机器人退出放件位_滑台_2"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533812948993",
+        "techniqueName": "清洗台3打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533821337602",
+        "techniqueName": "机器人到取件等待位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533829726209",
+        "techniqueName": "机器人到取件位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533829726210",
+        "techniqueName": "抓手气缸闭合_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533833920514",
+        "techniqueName": "机器人退出取件位_清洗台3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533846503426",
+        "techniqueName": "清洗台3关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533846503427",
+        "techniqueName": "机器人到等待位_滑台_3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533854892034",
+        "techniqueName": "机器人到达放件位_滑台_3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533863280641",
+        "techniqueName": "抓手气缸打开_滑台_3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532131033090",
+        "sort": 0,
+        "techniqueId": "1622510533863280642",
+        "techniqueName": "机器人退出放件位_滑台_3"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533875863554",
+        "techniqueName": "清洗台4打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533880057858",
+        "techniqueName": "机器人到取件等待位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533888446466",
+        "techniqueName": "机器人到取件位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533892640769",
+        "techniqueName": "抓手气缸闭合_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533901029377",
+        "techniqueName": "机器人退出取件位_清洗台4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533909417986",
+        "techniqueName": "清洗台4关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533913612289",
+        "techniqueName": "机器人到等待位_滑台_4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533922000897",
+        "techniqueName": "机器人到达放件位_滑台_4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533926195201",
+        "techniqueName": "抓手气缸打开_滑台_4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532135227394",
+        "sort": 0,
+        "techniqueId": "1622510533926195202",
+        "techniqueName": "机器人退出放件位_滑台_4"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533934583810",
+        "techniqueName": "清洗台5打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533942972418",
+        "techniqueName": "机器人到取件等待位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533951361025",
+        "techniqueName": "机器人到取件位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533951361026",
+        "techniqueName": "抓手气缸闭合_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533959749633",
+        "techniqueName": "机器人退出取件位_清洗台5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533963943937",
+        "techniqueName": "清洗台5关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533968138241",
+        "techniqueName": "机器人到等待位_滑台_5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533972332545",
+        "techniqueName": "机器人到达放件位_滑台_5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533976526849",
+        "techniqueName": "抓手气缸打开_滑台_5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532139421697",
+        "sort": 0,
+        "techniqueId": "1622510533984915457",
+        "techniqueName": "机器人退出放件位_滑台_5"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510533993304065",
+        "techniqueName": "清洗台6打开"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510533993304066",
+        "techniqueName": "机器人到取件等待位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510533997498369",
+        "techniqueName": "机器人到取件位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534010081282",
+        "techniqueName": "抓手气缸闭合_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534010081283",
+        "techniqueName": "机器人退出取件位_清洗台6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534018469889",
+        "techniqueName": "清洗台6关闭"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534026858497",
+        "techniqueName": "机器人到等待位_滑台_6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534026858498",
+        "techniqueName": "机器人到达放件位_滑台_6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534035247105",
+        "techniqueName": "抓手气缸打开_滑台_6"
+    },
+    {
+        "children": [],
+        "levelNum": 3,
+        "parentId": "1622510532147810306",
+        "sort": 0,
+        "techniqueId": "1622510534043635714",
+        "techniqueName": "机器人退出放件位_滑台_6"
+    },
+    null
+]
